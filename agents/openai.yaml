@@ -1,0 +1,4 @@
+interface:
+  display_name: "Provision 3X-UI Server"
+  short_description: "Install 3X-UI and deliver tested VLESS/SOCKS access"
+  default_prompt: "Use $provision-3x-ui-server to provision this SSH server with 3X-UI, VLESS, SOCKS5, and a QR code."

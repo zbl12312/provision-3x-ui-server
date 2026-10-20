@@ -1,0 +1,19 @@
+# 凭据与密钥
+.env
+*.env
+credentials.json
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# 缓存与临时文件
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+node_modules/
+
+# 脚本运行产物
+provision-3x-ui-output/
+*.zip
